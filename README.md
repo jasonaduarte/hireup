@@ -14,6 +14,10 @@ This is a practical approach to demonstrate a lean node.js application that
 I believe addresses the requirement in a pragmatic manner.
 It is easiley maintainable and understandable by other developers.
 
+Initializing the app:
+--------------------
+npm init
+
 Starting the app:
 ----------------
 To start the app on the server:
