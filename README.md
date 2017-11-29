@@ -1,6 +1,3 @@
-# hireup
-Hireup backend test
-
 name: hireup
 version: 1.0.0
 description: hireup backend test

@@ -1,0 +1,14 @@
+//Test file (test.json)
+//Results below from Jason's testing on 2017-11-29.
+
+Point the code at test.json to run the following tests.
+
+Test case	Description								Required isValid		Required Total		Actual Total
+1			Good test, day rate						true					123.5				123.5
+2			Morning night rate						true					289.77				289.77
+3			Evening night rate						true					375.63				375.63
+4			Saturday test 							true					126.25				126.25
+5			Sunday test 							true					167.33				167.33
+6			>24 hour test 							false					0					0
+7			<1 hour test 							false					0					0
+8			Start time is after End time test 		false					0					0
