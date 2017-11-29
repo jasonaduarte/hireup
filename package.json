@@ -13,5 +13,13 @@
   },
   "devDependencies": {
     "nodemon": "^1.12.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonaduarte/hireup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jasonaduarte/hireup/issues"
+  },
+  "homepage": "https://github.com/jasonaduarte/hireup#readme"
 }
